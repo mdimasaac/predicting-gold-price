@@ -24,3 +24,6 @@ The joined table will then be used in STEP 3 to be cleaned. The cleaned up data 
 Some packages might need to be installed in your Python framework, especially in the STEP 1, where it has 
 a few steps in web scraping using selenium. You might need to search in google for instructions regarding 
 the installation process(es).
+
+### Visualisation in Tableau
+You can see a quick visualisation in Tableau here: [Time-Series-Prediction: Gold Prices](https://public.tableau.com/app/profile/muhammad.dimas.abdul.aziz.cakradewa/viz/Time-Series-PredictionGoldPrices/Presentation?publish=yes)
